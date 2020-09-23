@@ -15,6 +15,9 @@ You can use those boards to suggest new blog post ideas, claim unclaimed blog po
 
 “Many hands make light work” - if you see something that someone else is working on that you really want to help with, send them a message and offer your help! Our team has grown really quickly and it's large now, so you can be as busy as you'd like (writing all the time) or just write something every once in a while, there's no pressure.
 
+## Good First Issues
+If you're new and looking for a good place to start, you might want to [check out the items tagged as 'Good First Issues'](https://github.com/OpenMined/writing/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22). You're also welcome to suggest your own blog ideas!
+
 ## How do we publish? 
 You can draft your writing wherever you'd like, a lot of people start on a Google doc since it’s easy to share with others and collaborate. Once your blog is ready, you publish it by writing it up on our Ghost platform and hitting “publish”. It’s quite simple, don’t worry.
 
