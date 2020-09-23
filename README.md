@@ -1,6 +1,8 @@
 #### **README.md**  
 
-Tracking all writing projects as a part of OpenMined's blog: https://blog.openmined.org/  
+This repo is for tracking all writing projects for OpenMined's blog: https://blog.openmined.org/  
+
+Not yet on the team? **Check out our [Writing Team Roadmap](https://github.com/OpenMined/Roadmap/tree/master/writing_team) for information on how to join us!**
 
 ## Writing team - Quick Links
 
