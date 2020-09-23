@@ -4,7 +4,7 @@ This repo is for tracking all writing projects for OpenMined's blog: https://blo
 
 Not yet on the team? **Check out our [Writing Team Roadmap](https://github.com/OpenMined/Roadmap/tree/master/writing_team) for information on how to join us!**
 
-## Writing team - Quick Links
+## Writing Team Internal - Quick Links & Useful Info
 
 **The blog ideas and suggestions are added to this:**
 - [**Project Board for Code Demos**](https://github.com/orgs/OpenMined/projects/32)
