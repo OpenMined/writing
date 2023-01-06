@@ -2,12 +2,10 @@
 
 This repo is for tracking all writing projects for OpenMined's blog: https://blog.openmined.org/  
 
-Not yet on the team? **Check out our [Writing Team Roadmap](https://github.com/OpenMined/Roadmap/tree/master/writing_team) for information on how to join us!**
-
-The time commitment required is flexible! We have once a month sync meetings for ideas and encouragement.
+Not yet on the team? The time commitment required is flexible! We have once a month sync meetings for ideas and encouragement.
 
 If you are interested in volunteering as a member of our Writing team, please fill out the form below and we will contact you about next steps.
-https://forms.gle/soUELbyY5CUFcjmV9 
+- [**Writing Team Application**](https://forms.gle/soUELbyY5CUFcjmV9)
 
 ## Writing Team Internal - Quick Links & Useful Info
 
