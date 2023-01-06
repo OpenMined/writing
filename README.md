@@ -31,6 +31,6 @@ If you don't have a Ghost profile yet, send me (@Emma) a message on slack and I'
 ## Have questions?
 If you have questions about this team, contact 
 
-- [**@Laura** on Slack](https://app.slack.com/client/T6963A864/D6BHGRDN3/user_profile/U6966R9BJ)
+- [**@Laura** on Slack](https://app.slack.com/client/T6963A864/D6BHGRDN3/user_profile/ULXHX4K0A)
 
 
