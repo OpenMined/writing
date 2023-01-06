@@ -29,8 +29,8 @@ If you don't have a Ghost profile yet, send me (@Emma) a message on slack and I'
 
 
 ## Have questions?
-If you have questions about this team, contact Emma Bluemke below:
+If you have questions about this team, contact 
 
-- [**@emma** on Slack](https://app.slack.com/client/T6963A864/D6BHGRDN3/user_profile/U6966R9BJ)
-- [**@emmabluemke** on Twitter](https://twitter.com/emmabluemke)
-- Email: emma@openmined.org
+- [**@Laura** on Slack](https://app.slack.com/client/T6963A864/D6BHGRDN3/user_profile/U6966R9BJ)
+
+
