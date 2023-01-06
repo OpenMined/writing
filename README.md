@@ -4,6 +4,11 @@ This repo is for tracking all writing projects for OpenMined's blog: https://blo
 
 Not yet on the team? **Check out our [Writing Team Roadmap](https://github.com/OpenMined/Roadmap/tree/master/writing_team) for information on how to join us!**
 
+The time commitment required is flexible! We have once a month sync meetings for ideas and encouragement.
+
+If you are interested in volunteering as a member of our Writing team, please fill out the form below and we will contact you about next steps.
+https://forms.gle/soUELbyY5CUFcjmV9 
+
 ## Writing Team Internal - Quick Links & Useful Info
 
 **The blog ideas and suggestions are added to this:**
@@ -23,7 +28,7 @@ If you're new and looking for a good place to start, you might want to [check ou
 ## How do we publish? 
 You can draft your writing wherever you'd like, a lot of people start on a Google doc since it’s easy to share with others and collaborate. Once your blog is ready, you publish it by writing it up on our Ghost platform and hitting “publish”. It’s quite simple, don’t worry.
 
-If you don't have a Ghost profile yet, send me (@Emma) a message on slack and I'll send you an invite to Ghost. When your blog is ready, submit the published link to https://socialmedia-submit.openmined.org. OpenMined’s social media manager @Madalin Mamuleanu will handle the sharing of your blog across the social media channels.
+If you don't have a Ghost profile yet, send me (@Laura) a message on slack and I'll send you an invite to Ghost. When your blog is ready, submit the published link to https://socialmedia-submit.openmined.org. 
 
 **Note:** Some people have received a lot of attention for their blog posts on the OpenMined blog. We recommend you update your “profile” on Ghost to include a photo, your name, short bio (ie ‘Student at X, 'Data scientist at X’, 'Writer at Y') and method for someone to get in touch with you (twitter handle is a good one) so you fully harness the attention that comes your way. 
 
